@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IshaTanwar
 - 👀 Coding is my life.
 - 🌱 I’m currently completing second year of BSENG degree.
-- 💞️ I’m looking to collaborate on C, java, python and HTML projects.
+- 💞️ I’m looking to collaborate on C, java, and python projects.
 - 📫 How to reach me -> email: ishaskib@gmail.com
 
 <!---
